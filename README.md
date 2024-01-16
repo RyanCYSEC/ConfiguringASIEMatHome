@@ -34,31 +34,24 @@ Developed a custom dashboard in Elastic SIEM to visualize security events, demon
 <h3>Phase 1: Set up a cloud account and deployment where the SIEM can be run.<h3>
 <p align="left">
 The first step in setting up this type of home lab was to gain access to a cloud environment. For my limited needs, purposes, and resources, I chose to utilize a free trial cloud instance via cloud.elastic.co.  <br/>
-<img src="[https://i.imgur.com/E6BhavB.png]" height="80%" width="80%" alt="SIEM Steps"/>
+<img src="https://i.imgur.com/E6BhavB.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p align="left">
+The first step in setting up this type of home lab was to gain access to a cloud environment. For my limited needs, purposes, and resources, I chose to utilize a free trial cloud instance via cloud.elastic.co.  <br/>
+<img src="https://i.imgur.com/E6BhavB.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p align="left">
+The first step in setting up this type of home lab was to gain access to a cloud environment. For my limited needs, purposes, and resources, I chose to utilize a free trial cloud instance via cloud.elastic.co.  <br/>
+<img src="https://i.imgur.com/E6BhavB.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p align="left">
+The first step in setting up this type of home lab was to gain access to a cloud environment. For my limited needs, purposes, and resources, I chose to utilize a free trial cloud instance via cloud.elastic.co.  <br/>
+<img src="https://i.imgur.com/E6BhavB.png" height="80%" width="80%" alt="SIEM Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/IgLLUAM.jpeg)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
